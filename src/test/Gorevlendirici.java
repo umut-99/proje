@@ -16,7 +16,6 @@ public class Gorevlendirici {
 		int giris=0;
 		
 		
-		
 	    while(kuyruk0.size() != 0 || kuyruk1.size() != 0 || kuyruk2.size() != 0 || kuyruk3.size() != 0 || t == 0)
 		{
 			// Processlerin varış zamanı geldi mi diye kontrol ediliyor. Geldiyse o process uygun kuyruğa eklenecek.
